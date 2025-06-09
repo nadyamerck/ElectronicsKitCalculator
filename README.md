@@ -41,9 +41,6 @@
 - `LICENSE`: Лицензия проекта.
 - `README.md`: Документация проекта.
 
-## Лицензия
-[MIT License](LICENSE)
-
 ## Авторы
 - [nadyamerck](https://github.com/nadyamerck)
 - Команда: Рыжакова, Кошурин, Меркулова
