@@ -13,7 +13,7 @@
 2. Установите необходимые библиотеки: pip install matplotlib numpy
 
 ## Клонирование репозитория
-1. Клонируйте репозиторий с GitHub:git clone https://github.com/nadyamerk/ElectronicsKitCalculator.git
+1. Клонируйте репозиторий с GitHub:git clone https://github.com/nadyamerck/ElectronicsKitCalculator.git
 2. Перейдите в папку проекта: cd ElectronicsKitCalculator
 ## Запуск приложения
 1. Запустите приложение из командной строки: python src/electronics_app.py
