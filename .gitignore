@@ -1,5 +1,9 @@
-__pycache__ 
-*.pyc 
-build/ 
-dist/ 
-*.spec 
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.spec
+*.log
