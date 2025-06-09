@@ -45,7 +45,7 @@
 [MIT License](LICENSE)
 
 ## Авторы
-- [nadyamerck](https://github.com/nadyamerk)
+- [nadyamerck](https://github.com/nadyamerck)
 - Команда: Рыжакова, Кошурин, Меркулова
 
 ## Скриншот
